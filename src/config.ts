@@ -8,7 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/ariana-palmer-30956233",
   },
   aboutMe:
-    "Dynamic bilingual professional with 9+ years of experience in business development, program coordination, entrepreneurship support, marketing, and community engagement. Proven success in recruiting mentors and entrepreneurs, building strong partnerships, coordinating events, and growing social media presence. Passionate about empowering Hispanic and underrepresented communities through business education, mentorship, and creative communication strategies.",
+    "Dynamic bilingual professional with <strong>9+ years of experience</strong> in <strong>business development</strong>, program coordination, entrepreneurship support, marketing, and <strong>community engagement</strong>. Proven success in recruiting mentors and entrepreneurs, building strong partnerships, coordinating events, and growing social media presence. Passionate about empowering Hispanic and underrepresented communities through business education, mentorship, and creative communication strategies.",
   skills: [
     "Program Coordination",
     "Business Development",
@@ -27,21 +27,21 @@ export const siteConfig = {
     {
       name: "EforAll NWA Accelerator Programs",
       description:
-        "Led community development initiatives recruiting and retaining diverse entrepreneurs and volunteer mentors for bilingual accelerator programs across Northwest Arkansas.",
+        "Led community development initiatives recruiting and retaining diverse entrepreneurs and volunteer mentors for <strong>bilingual accelerator programs</strong> across <strong>Northwest Arkansas</strong>.",
       link: "",
       skills: ["Program Management", "Community Outreach", "Entrepreneurship"],
     },
     {
       name: "CNL La Revista",
       description:
-        "Developed and edited a community publication amplifying Latino voices, celebrating local success stories, and strengthening cultural visibility in Arkansas.",
+        "Developed and edited a <strong>community publication</strong> amplifying Latino voices, celebrating local success stories, and strengthening cultural visibility in Arkansas.",
       link: "",
       skills: ["Editorial", "Graphic Design", "Bilingual Content"],
     },
     {
       name: "PCEME - Consular Entrepreneurship Program",
       description:
-        "Empowered Latina and immigrant women entrepreneurs through the Mexican Consulate program, providing training, mentorship, and community-building initiatives.",
+        "Empowered <strong>Latina and immigrant women entrepreneurs</strong> through the <strong>Mexican Consulate</strong> program, providing training, mentorship, and community-building initiatives.",
       link: "",
       skills: ["Mentorship", "Women Empowerment", "Business Education"],
     },
@@ -52,10 +52,10 @@ export const siteConfig = {
       title: "Program Coordinator",
       dateRange: "Feb 2024 - Oct 2025",
       bullets: [
-        "Led community development initiatives recruiting diverse entrepreneurs and volunteer mentors for bilingual accelerator programs",
-        "Designed inclusive outreach strategies expanding access to entrepreneurship resources for Hispanic and underserved communities",
-        "Managed social media (Facebook, Instagram, LinkedIn) creating all graphics and bilingual storytelling content",
-        "Built strategic partnerships with nonprofits, schools, and civic groups to advance economic mobility and inclusion",
+        "Led <strong>community development</strong> initiatives recruiting diverse entrepreneurs and volunteer mentors for <strong>bilingual accelerator programs</strong>",
+        "Designed inclusive outreach strategies expanding access to <strong>entrepreneurship resources</strong> for Hispanic and underserved communities",
+        "Managed social media (<strong>Facebook, Instagram, LinkedIn</strong>) creating all graphics and bilingual storytelling content",
+        "Built <strong>strategic partnerships</strong> with nonprofits, schools, and civic groups to advance economic mobility and inclusion",
       ],
     },
     {
@@ -63,9 +63,9 @@ export const siteConfig = {
       title: "Bilingual Program Coordinator",
       dateRange: "Sep 2022 - Feb 2024",
       bullets: [
-        "Delivered high-impact one-on-one business consulting strengthening economic mobility of Hispanic entrepreneurs",
-        "Developed and edited CNL La Revista, amplifying Latino voices and cultural visibility",
-        "Empowered Latina entrepreneurs through the PCEME Consular Entrepreneurship Program",
+        "Delivered high-impact <strong>one-on-one business consulting</strong> strengthening economic mobility of Hispanic entrepreneurs",
+        "Developed and edited <strong>CNL La Revista</strong>, amplifying Latino voices and cultural visibility",
+        "Empowered Latina entrepreneurs through the <strong>PCEME Consular Entrepreneurship Program</strong>",
       ],
     },
     {
@@ -73,9 +73,9 @@ export const siteConfig = {
       title: "Bilingual Sales Executive",
       dateRange: "Oct 2021 - Sep 2022",
       bullets: [
-        "Built strong client relationships across the Hispanic business community, consistently exceeding monthly sales goals",
-        "Designed bilingual marketing materials and led promotional initiatives expanding brand visibility",
-        "Planned and hosted annual networking event in partnership with the Chamber of Commerce",
+        "Built strong client relationships across the Hispanic business community, consistently <strong>exceeding monthly sales goals</strong>",
+        "Designed <strong>bilingual marketing materials</strong> and led promotional initiatives expanding brand visibility",
+        "Planned and hosted annual networking event in partnership with the <strong>Chamber of Commerce</strong>",
       ],
     },
     {
@@ -83,9 +83,9 @@ export const siteConfig = {
       title: "Business Development Specialist",
       dateRange: "Jan 2020 - Sep 2021",
       bullets: [
-        "Led business development acquiring and managing new commercial accounts across Northwest Arkansas",
-        "Developed bilingual marketing campaigns expanding brand visibility in Hispanic communities",
-        "Strengthened franchise network by onboarding and training Spanish-speaking entrepreneurs",
+        "Led <strong>business development</strong> acquiring and managing new commercial accounts across <strong>Northwest Arkansas</strong>",
+        "Developed <strong>bilingual marketing campaigns</strong> expanding brand visibility in Hispanic communities",
+        "Strengthened franchise network by onboarding and training <strong>Spanish-speaking entrepreneurs</strong>",
       ],
     },
     {
@@ -93,8 +93,8 @@ export const siteConfig = {
       title: "Advertising Sales Executive / Graphic Designer",
       dateRange: "Jun 2017 - Jan 2020",
       bullets: [
-        "Drove business development managing advertising contracts for regional and local businesses",
-        "Designed bilingual advertisements and translated editorial and marketing content",
+        "Drove <strong>business development</strong> managing advertising contracts for regional and local businesses",
+        "Designed <strong>bilingual advertisements</strong> and translated editorial and marketing content",
         "Organized and represented the publication at community events and cultural celebrations",
       ],
     },
@@ -102,13 +102,13 @@ export const siteConfig = {
   education: [
     {
       school: "IED - European Institute of Design, Barcelona",
-      degree: "Bachelor's Degree in Graphic Design",
+      degree: "Bachelor's Degree in <strong>Graphic Design</strong>",
       dateRange: "",
       achievements: [],
     },
     {
       school: "Udacity",
-      degree: "Nanodegree in Digital Marketing",
+      degree: "Nanodegree in <strong>Digital Marketing</strong>",
       dateRange: "",
       achievements: [],
     },
